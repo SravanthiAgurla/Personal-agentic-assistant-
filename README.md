@@ -1,3 +1,4 @@
-# Welcome to your Lovable project
+Personal Agentic Assistant
+
 
 TODO: Document your project here
